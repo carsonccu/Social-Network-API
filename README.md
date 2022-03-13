@@ -30,6 +30,8 @@ npm run start || npm run dev
 
 ## Video
 
+https://www.awesomescreenshot.com/video/7859139
+
 ## Links
 
 Github: https://github.com/carsonccu/Social-Network-API
