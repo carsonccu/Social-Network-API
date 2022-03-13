@@ -2,7 +2,7 @@ const { Thought, User } = require('../models');
 
 module.exports = {
 
-    getAUsers(req, res) {
+    getUsers(req, res) {
         User.find({})
             .populate('thoughts')
             .populate({ path: 'friends', select: '-__v' })
